@@ -6,10 +6,10 @@
  *@value: value to store in new node
  *
  * Return: if parent is NULL or an error occurs - NULL
- * 			else a pointer to new node
+ *         else a pointer to new node
  * Description: if parent has a right child, new node takes
- * 		its place and the old right-child is set as
- *  		the right child of new node
+ *       its place and the old right-child is set as
+ *       the right child of new node
  */
 
 binary_tree_t *binary_tree_insert_right(binary_tree_t *parent, int value)

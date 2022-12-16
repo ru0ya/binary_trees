@@ -6,7 +6,7 @@
  *@value: value to store in new node
  *
  * Return: if parent is NULL or error occurs - NULL
- * 			else pointer to the new node
+ * else pointer to the new node
  *
  */
 
